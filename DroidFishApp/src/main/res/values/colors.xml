@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#81b64c</color>
+    <color name="primary_dark">#629924</color>
+    <color name="background">#312e2b</color>
+    <color name="surface">#262421</color>
+    <color name="surface_variant">#3d3a37</color>
+    <color name="on_surface">#bababa</color>
+    <color name="board_light_green">#f0d9b5</color>
+    <color name="board_dark_green">#b58863</color>
+    <color name="board_light_blue">#dee3e6</color>
+    <color name="board_dark_blue">#8ca2ad</color>
+    <color name="board_light_wood">#e8d5b5</color>
+    <color name="board_dark_wood">#b8956a</color>
+    <color name="time_bullet">#e74c3c</color>
+    <color name="time_blitz">#f39c12</color>
+    <color name="time_rapid">#81b64c</color>
+    <color name="time_classical">#4a90e2</color>
+</resources>
