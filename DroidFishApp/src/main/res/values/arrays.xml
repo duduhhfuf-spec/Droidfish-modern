@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="board_theme_names">
+        <item>Зелёная</item><item>Голубая</item><item>Коричневая</item>
+        <item>Фиолетовая</item><item>IC</item><item>Дерево</item>
+        <item>Мрамор</item><item>Тёмная</item>
+    </string-array>
+    <string-array name="board_theme_values">
+        <item>GREEN</item><item>BLUE</item><item>BROWN</item>
+        <item>PURPLE</item><item>IC</item><item>WOOD</item>
+        <item>MARBLE</item><item>DARK</item>
+    </string-array>
+    <string-array name="piece_set_names">
+        <item>Cburnitt</item><item>Merida</item><item>Alpha</item>
+        <item>Chessnut</item><item>Leipzig</item><item>Pixel</item>
+        <item>Companion</item><item>Rioh</item><item>Kosal</item><item>Fantasy</item>
+    </string-array>
+    <string-array name="piece_set_values">
+        <item>CBURNITT</item><item>MERIDA</item><item>ALPHA</item>
+        <item>CHESSNUT</item><item>LEIPZIG</item><item>PIXEL</item>
+        <item>COMPANION</item><item>RIOH</item><item>KOSAL</item><item>FANTASY</item>
+    </string-array>
+    <string-array name="sound_set_names">
+        <item>Стандартный</item><item>Пианино</item><item>NES</item>
+        <item>Футуристичный</item><item>Lisp</item>
+    </string-array>
+    <string-array name="sound_set_values">
+        <item>STANDARD</item><item>PIANO</item><item>NES</item>
+        <item>FUTURISTIC</item><item>LISP</item>
+    </string-array>
+</resources>
